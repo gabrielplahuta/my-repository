@@ -33,8 +33,6 @@ Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 <!-- 2. nivojski razdelek -->
 ## Uporabne povezave
 
-## Uporabne povezave
-
 1. [FMF učilnica][1]
 2. [Računalniški sistemi][2]
 3. [Računalniški praktikum][3]
